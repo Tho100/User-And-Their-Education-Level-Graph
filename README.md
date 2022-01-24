@@ -1,4 +1,4 @@
-Grpah is created using matplotlib and seaborn
+Graph is created using matplotlib and seaborn
 
 # OUTPUT
 
